@@ -1,4 +1,5 @@
-CRPTOGRAPHY PORTFOLIO
+CRYPTOCURRENCY PORTFOLIO
+
 ->	Created a GUI-based project for managing the user’s cryptocurrency portfolio and performing various CRUD operations on coins invested.
 
 ->	Technologies used included Python language and libraries like tkinter, requests, json and sqlite3.
